@@ -2,5 +2,5 @@ Learn Github
 1. Konsistent untuk belajar github
 2. Membuat github untuk mengelola project embbeded system programming
 3. Membuat forum diskusi bareng team
-4. Membuat  merch koding dasar python
-5. Kolaborasi dengan para expert
+4. Kolaborasi dengan para expert
+5. Membuat vlog

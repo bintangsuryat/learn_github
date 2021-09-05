@@ -1,0 +1,4 @@
+Learn Github
+1. Konsistent untuk belajar github
+2. Membuat github untuk mengelola project embbeded system programming
+3. Membuat forum diskusi bareng teman
